@@ -40,7 +40,7 @@ This is a simple transaction management system which provides add,edit,delete an
 
 ### How to use
 
-1. Clone the repository
+1. Clone the repository with main branch
 2. Open the project with IDE
 3. Config jdk and maven
 4. Run the project
