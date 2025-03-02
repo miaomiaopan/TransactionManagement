@@ -2,16 +2,13 @@ package com.example.TransactionManagement;
 
 import com.example.TransactionManagement.controller.TransactionController;
 import com.example.TransactionManagement.entity.Transaction;
-import com.example.TransactionManagement.service.TransactionService;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
-
 import java.math.BigDecimal;
-import java.util.List;
 
 @SpringBootTest
 public class TransactionControllerTest {
