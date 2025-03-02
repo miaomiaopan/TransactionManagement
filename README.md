@@ -51,7 +51,7 @@ This is a simple transaction management system which provides add,edit,delete an
 The class includes test suites for controller.
 
 #### PerformanceTest.java
-The class includes performance for creating transaction.
+The class includes performance test for creating transaction.
 
 ### TODO
 #### 1. adding Dockerfile
