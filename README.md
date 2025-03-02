@@ -57,5 +57,6 @@ The class includes performance test for creating transaction.
 #### 1. adding Dockerfile
 We can use a Dockerfile to create a Docker image and upload the image to Docker Hub.
 
-#### 1. adding test suites for service and performance test for searching transactions.
+#### 1. adding test suites
+Adding test suites for service and performance test for searching transactions.
 
